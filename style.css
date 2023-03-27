@@ -1,0 +1,55 @@
+body {
+    background-color: navy;
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  header {
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+  }
+  h1 {
+    margin: 0;
+    font-size: 36px;
+  }
+  h3{
+    justify-content: right;
+    color: white;
+    display: flex;
+    background-color: black;
+    height: 50px;
+    margin: auto;
+    font-size: 20px;
+    align-items:end
+  }
+  nav {
+    background-color: darkblue;
+    padding: 10px;
+    text-align: center;
+  }
+  nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 20px;
+  }
+  section {
+    background: url(./images/universo.jpg);
+    margin: 0%;
+    padding: 0%;
+    background-size: auto;
+    background-position: center;
+    font-family: sans-serif;
+    padding: 50px;
+    text-align: justify;
+  }
+  h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  p {
+    font-size: 18px;
+    line-height: 1.5;
+  }
